@@ -1,0 +1,2 @@
+# warning_RealtimeSpider
+如果10分钟内，队列长度超过50的次数大于10就发送邮件
