@@ -1,3 +1,4 @@
 # warning_RealtimeSpider
 发送邮件的库和模板使用
 如果10分钟内，队列长度超过50的次数大于10就发送邮件
+end
